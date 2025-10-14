@@ -89,15 +89,15 @@ R provided statistical rigor and quantification, while Tableau translated these 
 ---
 
 ## Key Insights
-- **Freedom and Social Support** emerge as the most consistent contributors to happiness across all models, suggesting that psychological well-being and community connections matter more than pure economic factors once basic needs are met
+- **Freedom and Social Support emerge as the most consistent contributors to happiness across all models**, suggesting that psychological well-being and community connections matter more than pure economic factors once basic needs are met
 - **Africa remains the least happy region** on average, while **Europe and Oceania consistently top rankings** - this likely reflects the stability of social institutions, healthcare access, and economic security in developed regions versus infrastructure challenges in many African nations
-- **Venezuela showed the greatest improvement** in happiness rankings between 2015–2019, which is surprising given its economic collapse but may reflect resilience, strong social networks, or cultural adaptations during crisis
-- **Zambia demonstrated significant improvement**, likely due to economic growth and infrastructure investments during this timeframe
-- **Happiness inequality across regions has remained relatively stable**, though Western and Northern Europe continue to dominate, with Nordic countries consistently ranking highest due to their strong social safety nets, work-life balance, and high trust in institutions
+- Venezuela showed the greatest improvement in happiness rankings between 2015–2019, which is surprising given its economic collapse but may reflect resilience, strong social networks, or cultural adaptations during crisis
+- Zambia demonstrated significant improvement, likely due to economic growth and infrastructure investments during this timeframe
+- Happiness inequality across regions has remained relatively stable, though Western and Northern Europe continue to dominate, with Nordic countries consistently ranking highest due to their strong social safety nets, work-life balance, and high trust in institutions
 - **The relationship between GDP and Happiness shows diminishing returns** after a threshold, implying non-economic factors increasingly matter in richer nations where basic needs are universally met
-- **In Tableau's Factor Importance visualization, GDP appeared less significant** because it overlaps heavily with health and social support—both of which capture quality-of-life dimensions that go beyond pure income
-- **This multicollinearity causes GDP's apparent influence to drop** when the combined model emphasizes well-being indicators rather than just economic scale
-- **Many countries showed rank declines** potentially due to increasing political polarization, economic uncertainties, and the early impacts of climate-related stresses affecting life satisfaction globally
+- In Tableau's Factor Importance visualization, GDP appeared less significant because it overlaps heavily with health and social support—both of which capture quality-of-life dimensions that go beyond pure income
+- This multicollinearity causes GDP's apparent influence to drop when the combined model emphasizes well-being indicators rather than just economic scale
+- Many countries showed rank declines potentially due to increasing political polarization, economic uncertainties, and the early impacts of climate-related stresses affecting life satisfaction globally
 
 ---
 
